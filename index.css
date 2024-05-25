@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    background-color: rgb(153, 255, 255);
+}
+body{
+    background-image: url(chembackgroundimage.jpg);
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    background-color: rgb(153, 255, 255);
+}
+p{
+    font-size: large;
+}
+#chem3dpdf{
+    background-color:  rgb(153, 255, 255);
+}
+#abc{
+    text-align: center;
+    font-size: large;
+    text-decoration-color: red;
+}
+a{
+    background-color:  rgb(153, 255, 255);
+    text-align: center;
+}
